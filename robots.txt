@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaryaab74.github.io/alight-motion-apk-and-old-versions/sitemap.xml
